@@ -12,6 +12,7 @@ function App() {
       <p>name</p>
       <p>age</p>
       <p>city</p>
+      <p>Bangladesh</p>
     </>
   )
 }
