@@ -16,6 +16,7 @@ function App() {
       <p>GitHub</p>
       <p>Html</p>
       <p>CSS</p>
+      <p>Javascript</p>
     </>
   )
 }
