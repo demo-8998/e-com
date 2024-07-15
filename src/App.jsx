@@ -11,6 +11,7 @@ function App() {
       <h1>Zioun</h1>
       <p>name</p>
       <p>age</p>
+      <p>city</p>
     </>
   )
 }
